@@ -11,22 +11,23 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Elizabeth, and I’m a graduate student in the Master of Arts Management program at Carnegie Mellon University. I’m interested in research, communication, and finding ways to use information to better understand the world around us. I currently work as a Research Intern for the O’Brien Foundation, where I get to build my research and writing skills. I’m excited to learn more about data visualization and how to use data to tell stories in ways that are clear, engaging, and meaningful.
+
+Outside of school and work, I love running, hiking, camping, traveling, reading, and seeing live music. I enjoy exploring new places, spending time outdoors, and learning about things I wouldn’t normally encounter. I’m always interested in finding new ways to connect information with real-world experiences and making complex ideas easier for people to understand.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- How to present data in a meaningful way!
+- The (introductory) ins and outs of Tableau!
+- How to set up a portfolio on github!
 
 # Portfolio
+## TSWD Githib Assignment 1
+
+## TSWD Github Assignment 2
+
+## TSWD Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
