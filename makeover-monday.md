@@ -3,7 +3,7 @@
 # Makeover Monday
 
 ## Original Visualization: 
-[Our World in Data: What are the world's deadliest animals?] (https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals) 
+[Our World in Data: What are the world's deadliest animals?](https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals)
 
 ## Selection Choice: 
 I chose this visualization because I thought the topic was interesting and somewhat surprising. Most people probably assume that larger or more dangerous-looking animals, like sharks, lions, or crocodiles, are responsible for the most human deaths. However, the data shows that much smaller animals, particularly mosquitoes, are responsible for significantly more deaths each year. I also thought this visualization would be interesting to redesign because it presents a lot of information that could be made easier to understand and compare. I want to explore how I can make the data more visually engaging while still clearly communicating the differences between animals and the number of deaths associated with them. 
