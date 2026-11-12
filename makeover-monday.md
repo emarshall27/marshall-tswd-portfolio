@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Makeover Monday
-Text here...
 
 ## Original Visualization: 
 https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals 
@@ -20,20 +19,27 @@ For my redesign, I want to focus on making the data easier to compare and unders
 
 ## Peer Review: 
 I interviewed a friend in my program who has not taken this course and a friend in my program who was in this course last mini semester:
+
 Participant 1: Student, no prior data visualization experience 
+
 - Thought the horizontal bar chart was easy to understand.
 - Liked that the animals were ranked from most to least deadly.
 - Found the difference between mosquitoes and other animals surprising.
 - Suggested adding commas to the numbers to make them easier to read.
+
 Participant 2: Student, some data visualization experience
+
 - Thought the title was clear and the color highlighting helped draw attention to the top two categories.
 - Liked the simple layout but thought the gray bars could use more contrast.
 - Suggested adding a subtitle explaining that the numbers represent estimated annual human deaths.
 - Thought the chart was easy to follow overall.
+
 Common Themes & Changes: Both participants thought the new design was clear, easy to follow, and much easier to compare than the original. Based on their feedback, I would make a few small changes:
+
 - Add commas to large numbers (760,000 instead of 760000).
 - Add a subtitle explaining the data.
 - Consider slightly adjusting the gray bars to improve contrast.
+
 Overall, the feedback reinforced that keeping the design simple and highlighting the biggest differences makes the data more effective.
 
 ## Final Visualization: 
